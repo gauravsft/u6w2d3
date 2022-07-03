@@ -1,0 +1,34 @@
+{
+  "task": [
+    {
+      "id": "036f8ebb-2512-43a6-89a7-4f36ea065339",
+      "title": "Fish",
+      "status": false
+    },
+    {
+      "id": "4047cf5e-033b-489a-9700-7cf891657b48",
+      "title": "Chicken",
+      "status": true
+    },
+    {
+      "id": "6fb14fff-23cc-4034-be8c-d15aa203c42b",
+      "title": "Motton",
+      "status": true
+    },
+    {
+      "id": "fc59cc3e-a72c-46a1-9b07-8b299faa0cf2",
+      "title": "Burger",
+      "status": false
+    },
+    {
+      "id": "4e8eb7dd-7335-434d-83eb-ae9fa0a20cb0",
+      "title": "Fish curry",
+      "status": false
+    },
+    {
+      "id": "95b3ae3c-ced5-4607-ab51-86ca9bd1e6c0",
+      "title": "Patato",
+      "status": false
+    }
+  ]
+}
